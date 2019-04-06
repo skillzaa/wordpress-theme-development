@@ -1,0 +1,16 @@
+/*
+Theme Name: Skillzaa-theme
+Theme URI: https://skillzaa.com
+Author: Bilzaa
+Author URI: https://bilzaa.com
+Version: 1.0
+Description:My first theme.
+Requires at least: WordPress 4.9.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: skillzaa
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, 
+*/
+body {
+    color: red;
+}
